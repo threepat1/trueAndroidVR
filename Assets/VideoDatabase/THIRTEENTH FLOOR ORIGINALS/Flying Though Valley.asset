@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 751d767132bbe8645943fb03b246a492, type: 3}
+  m_Name: Flying Though Valley
+  m_EditorClassIdentifier: 
+  title: Flying Though Valley
+  description: Extreme Sports VR Experience by Thirteenth Floor
+  pathLink: https://xrco.live:7002/live/TFFlyingThroughValley.m3u8
+  videoImage: {fileID: 21300000, guid: 753540e9d71dc9341badb6e742ea2f77, type: 3}
